@@ -1,4 +1,5 @@
 class Database {
+  
   static count = 0;
   constructor(connectionString) {
       this.connectionString = connectionString

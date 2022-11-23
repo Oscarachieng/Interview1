@@ -4,8 +4,7 @@
 // return the maximun products
 
 const maximumProducts = (array, threshold) => {
-  const n = array.length
-  
+  const n = array.length  
   if(n < threshold){
     return 'Array must hav atleast three elemnts'
   } else {

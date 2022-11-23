@@ -1,5 +1,4 @@
 //Implementing queue operation in javascript
-
 //initializing the stacks as empty array
 const stack1 = [];
 const stack2 = [];
